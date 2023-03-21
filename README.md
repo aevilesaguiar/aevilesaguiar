@@ -1,7 +1,7 @@
 ### Olá! Eu sou Aevilés Aguiar 👋
 
 
-- 🔭 Eu estou trabalhando e aprendendo Java 
+- 🔭 Eu estou trabalhando como Scrum Master
 - 💬 Contate-me no e-mail: aeviles@hotmail.com
 - 😄 Pronomes: ela/dela
 
