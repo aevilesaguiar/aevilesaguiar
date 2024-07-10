@@ -7,7 +7,7 @@
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/668e8ef97d03d0bb6d8f8399?variant=light)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/668e8ef97d03d0bb6d8f8399?variant=dark)](https://roadmap.sh)
 
 ##
  
