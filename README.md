@@ -7,7 +7,7 @@
 
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/668e8ef97d03d0bb6d8f8399?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668e8ef97d03d0bb6d8f8399?variant=dark&roadmaps=product-manager" alt="roadmap.sh"/></a>
 
 ##
  
