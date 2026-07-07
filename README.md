@@ -1,22 +1,108 @@
-### Olá! Eu sou Aevilés Aguiar 👋
+<div align="center">
+
+<img width="207" height="207" alt="image" src="https://github.com/user-attachments/assets/b62227d0-f19b-4ec8-8ba3-5e26e5853d3f" />
 
 
-- 🔭 Eu estou trabalhando como Scrum Master
-- 💬 Contate-me no e-mail: aeviles@hotmail.com
-- 😄 Pronomes: ela/dela
+<h1>Olá, eu sou Aevilés Aguiar 👋</h1>
 
+<h3>
+Product Owner • Product Manager • Product Discovery • Agile Coach
+</h3>
 
+<p>
+Profissional com mais de 15 anos de experiência em produtos digitais e transformação organizacional no setor financeiro.
+Atuo conectando estratégia, negócio e tecnologia por meio de Product Discovery, definição de MVPs, gestão de backlog,
+OKRs e evolução contínua de produtos digitais.
+</p>
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668e8ef97d03d0bb6d8f8399?variant=dark&roadmaps=product-manager" alt="roadmap.sh"/></a>
+<p>
+Experiência em instituições financeiras e fintechs, colaborando com GPMs, Product Owners,
+stakeholders e times multidisciplinares para transformar oportunidades em soluções de valor para clientes e negócios.
+</p>
 
-##
- 
-<div> 
+</div>
 
-  <a href="https://www.instagram.com/aevilesaguiar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
-<a href = "mailto:estudate04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/aeviles-aguiar-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- 
+<br>
+
+<div align="center">
+
+<a href="mailto:aeviles@hotmail.com">
+https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</a>
+
+<a href="https://www.linkedin.com/in/aeviles-aguiar-silva/">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+<a href="https://www.instagram.com/aevilesaguiar/">
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+</a>
+
+</div>
+
+---
+
+## 🚀 Áreas de Atuação
+
+- Product Discovery
+- Product Strategy
+- Definição de MVPs
+- Gestão e Priorização de Backlog
+- Roadmaps de Produto
+- Gestão de Portfólio
+- OKRs e Métricas
+- Stakeholder Management
+- Produtos Financeiros
+- Inteligência Artificial aplicada a Produtos
+
+---
+
+## 🛠️ Ferramentas
+
+- Jira
+- Azure
+- Confluence
+- Notion
+- Miro
+- Figma
+- Lovable
+- Claude
+
+---
+
+## 📚 Certificações
+
+- PSPO I
+- PSM I
+- SAFe Agilist
+- Lean PM
+- Lean Inception
+- Team OKR
+- Product Leadership
+- KMP (KSD + KSI)
+
+---
+
+## 🌱 Atualmente estudando
+
+- Product Management
+- Product Strategy
+- Product Analytics
+- Product Discovery
+- Inteligência Artificial aplicada a Produtos
+
+---
+
+## 📈 Roadmap
+
+<p align="center">
+<a href="https://roadmap.sh">
+<img src="https://roadmap.sh/card/wide/p>
+
+---
+
+<div align="center">
+
+💡 <i>Construindo produtos que geram valor para clientes, negócios e pessoas.</i>
+
 </div>
