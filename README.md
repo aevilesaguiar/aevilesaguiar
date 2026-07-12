@@ -3,7 +3,7 @@
 <img width="207" height="207" alt="image" src="https://github.com/user-attachments/assets/b62227d0-f19b-4ec8-8ba3-5e26e5853d3f" />
 
 
-<h1>Olá, eu sou Aevilés Aguiar 👋</h1>
+<h1>Olá, eu sou Aeviles Aguiar 👋</h1>
 
 <h3>
 Product Owner • Product Manager • Product Discovery • Agile Coach
